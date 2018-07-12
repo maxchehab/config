@@ -1,0 +1,18 @@
+{
+  "workbench.startupEditor": "newUntitledFile",
+  "editor.multiCursorModifier": "ctrlCmd",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.formatOnSave": true,
+  "window.zoomLevel": 0,
+  "dart.flutterSdkPath": "/Users/d0r6/flutter",
+  "workbench.colorTheme": "Flamingo Galaxy",
+  "terminal.integrated.fontFamily": "Hack Nerd Font",
+  "terminal.integrated.fontSize": 15,
+  "workbench.colorCustomizations": {
+    "terminal.ansiBlack": "#263647",
+    "terminal.ansiBrightYellow": "#EE70A9",
+    "list.focusBackground": "#EE70A9"
+  },
+  "go.useLanguageServer": true
+}
